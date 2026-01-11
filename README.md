@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 - 🔧 Passionate **DevOps Engineer** from India  
 - ☁️ Focused on **Cloud, Automation & Reliability**  
-- 💬 Ask me about **DevOps, AWS & CI/CD**  
+- 🚀 Strong interest in real-world DevOps workflows  
 - 📫 Reach me at **abishpackya15@gmail.com**
 
 <p>
@@ -28,44 +28,37 @@
 
 ---
 
-## 🧠 DevOps Learning Roadmap
-- ✅ Linux fundamentals & Bash scripting  
-- ✅ Git & GitHub workflows  
-- 🔄 Docker & containerization  
-- 🔄 CI/CD pipelines (GitHub Actions / Jenkins)  
-- ⏳ Kubernetes fundamentals  
-- ⏳ Terraform & Infrastructure as Code  
-- ⏳ Monitoring with Prometheus & Grafana  
+## 🚀 Featured DevOps Projects
+
+### 🔹 CI/CD Pipeline with Jenkins & Docker
+- Automated build and deployment pipeline
+- Dockerized application build
+- Jenkins declarative pipeline  
+🔗 Repo: *Coming soon*
 
 ---
 
-## 🛠️ Currently Learning
-- Docker best practices  
-- GitHub Actions for CI/CD  
-- Linux automation using Bash  
-- AWS cloud fundamentals  
+### 🔹 GitHub Actions CI/CD Pipeline
+- CI workflow using GitHub Actions
+- Build & test automation
+- Docker image creation  
+🔗 Repo: *Coming soon*
 
 ---
 
-## 🧩 DevOps Concepts I Understand
-- CI/CD pipeline design  
-- Infrastructure as Code (IaC)  
-- Containerization & orchestration basics  
-- Cloud resource provisioning  
-- Monitoring & logging fundamentals  
-- Automation-first DevOps mindset  
+### 🔹 Kubernetes Deployment (Local Cluster)
+- Container deployment using Kubernetes
+- Used Deployments, Services & ConfigMaps
+- Tested on Minikube  
+🔗 Repo: *Coming soon*
 
 ---
 
-## 🤝 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/abishpackya">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />
-  </a>
-  <a href="https://instagram.com/abixh_15">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" />
-  </a>
-</p>
+### 🔹 Infrastructure as Code with Terraform
+- AWS EC2 & Security Group provisioning
+- Modular Terraform structure
+- IaC best practices  
+🔗 Repo: *Coming soon*
 
 ---
 
@@ -86,17 +79,25 @@
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-abish&show_icons=true&count_private=true&theme=vue&hide_border=true)
 
-| Top Languages | GitHub Stats |
-|--------------|-------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-abish&layout=compact&langs_count=6&theme=vue&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api?username=iam-abish&show_icons=true&count_private=true&theme=vue&hide_border=true) |
+---
 
+## 🤝 Connect With Me
+<p>
+  <a href="https://linkedin.com/in/abishpackya">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />
+  </a>
+  <a href="https://instagram.com/abixh_15">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" />
+  </a>
+</p>
 
 ---
 
 ## 🤝 Open to Collaborations
-- 🤝 Project Collaborations  
-- 💼 DevOps Consulting  
+- 🤝 DevOps project collaborations  
+- 💼 DevOps & Cloud consulting  
 - 📧 **abishpackya15@gmail.com**
 
-> *“Automate everything. Build reliable systems. Ship with confidence.”*
+> *“Build systems that are reliable, automated, and scalable.”*
