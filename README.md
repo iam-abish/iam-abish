@@ -89,7 +89,8 @@
 
 | Top Languages | GitHub Stats |
 |--------------|-------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-abish&layout=compact&theme=vue&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api?username=iam-abish&show_icons=true&theme=vue&hide_border=true) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-abish&layout=compact&langs_count=6&theme=vue&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api?username=iam-abish&show_icons=true&count_private=true&theme=vue&hide_border=true) |
+
 
 ---
 
