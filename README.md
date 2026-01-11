@@ -28,6 +28,35 @@
 
 ---
 
+## 🧠 DevOps Learning Roadmap
+- ✅ Linux fundamentals & Bash scripting  
+- ✅ Git & GitHub workflows  
+- 🔄 Docker & containerization  
+- 🔄 CI/CD pipelines (GitHub Actions / Jenkins)  
+- ⏳ Kubernetes fundamentals  
+- ⏳ Terraform & Infrastructure as Code  
+- ⏳ Monitoring with Prometheus & Grafana  
+
+---
+
+## 🛠️ Currently Learning
+- Docker best practices  
+- GitHub Actions for CI/CD  
+- Linux automation using Bash  
+- AWS cloud fundamentals  
+
+---
+
+## 🧩 DevOps Concepts I Understand
+- CI/CD pipeline design  
+- Infrastructure as Code (IaC)  
+- Containerization & orchestration basics  
+- Cloud resource provisioning  
+- Monitoring & logging fundamentals  
+- Automation-first DevOps mindset  
+
+---
+
 ## 🤝 Connect With Me
 <p>
   <a href="https://linkedin.com/in/abishpackya">
@@ -61,16 +90,6 @@
 | Top Languages | GitHub Stats |
 |--------------|-------------|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-abish&layout=compact&theme=vue&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api?username=iam-abish&show_icons=true&theme=vue&hide_border=true) |
-
----
-
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=iam-abish&theme=vue&hide_border=true)
-
----
-
-## 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=iam-abish&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 
