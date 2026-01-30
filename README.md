@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Docker**
 
 
-- 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services, MySQL**
+- 💬 Ask me about **DevOps, Cloud Computing AWS, Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services, MySQL**
 
 - 📫 How to reach me **abishpackya15@gmail.com**
 
