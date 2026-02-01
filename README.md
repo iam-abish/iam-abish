@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Devops-for-AWS](https://github.com/iam-abish)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Jenkins**
 
 
 - 💬 Ask me about **DevOps, Cloud Computing AWS, Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services, MySQL**
