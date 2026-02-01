@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I am takative**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/iam-abish](https://www.linkedin.com/in/iam-abish)
+- 📄 Know about my experiences [https://www.linkedin.com/in/iam-abish](https://iam-abish.github.io/portfolio/)
 
 
 <h3 align="left">Connect with me:</h3>
