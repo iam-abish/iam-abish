@@ -4,24 +4,22 @@
 </p> -->
 <h1 align="center">Hi 👋, I'm Abish Packya from India</h1>
 
-<h3 align="center">DevOps Engineer focused on automation and cloud technologies for efficiency.</h3>
+<h3 align="center">Platform Engineer focused on Azure, DevOps automation, and microservices for scalable, efficient systems.</h3>
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
 
-- 🔭 I’m currently working on [Devops-for-AWS](https://github.com/iam-abish)
+- 🔭 I'm currently working as a **Platform Engineer at Futecx LLC**, focused on Azure cloud infrastructure, DevOps practices, and microservices architecture
 
-- 🌱 I’m currently learning **Jenkins**
+- 🌱 I'm currently learning **Microsoft Fabric services and Microsoft Foundry**
 
-
-- 💬 Ask me about **DevOps, Cloud Computing AWS, Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services, MySQL**
+- 💬 Ask me about **DevOps, Microsoft Azure, Microservices, Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services, MySQL**
 
 - 📫 How to reach me **abishpackya15@gmail.com**
 
-- ⚡ Fun fact **I am takative**
+- ⚡ Fun fact **I am talkative**
 
 - 📄 Know about my experiences [https://iam-abish.github.io/portfolio/](https://iam-abish.github.io/portfolio/)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -60,6 +58,9 @@
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
+  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="azure devops" width="40" height="40"/>
+  </a>
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
   </a>
@@ -76,6 +77,9 @@
   </a>
 
   <!-- Cloud -->
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
