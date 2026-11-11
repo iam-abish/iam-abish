@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
 
-- 🔭 I'm currently working as a **Platform Engineer at Futecx LLC**, focused on Azure cloud infrastructure, DevOps practices, and microservices architecture
+- 🔭 I'm currently working as a **Platform Engineer**, focused on Azure cloud infrastructure, DevOps practices, and microservices architecture
 
 - 🌱 I'm currently learning **Microsoft Fabric services and Microsoft Foundry**
 
